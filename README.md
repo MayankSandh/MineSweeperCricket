@@ -1,2 +1,2 @@
-# MineSweeperCricket
- A fun game of Minesweeper mixed with rules of cricket
+# MineSweeper_Cricket
+  A HTML-CSS-JS based project for CS104 Course. 
